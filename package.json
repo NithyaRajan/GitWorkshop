@@ -1,0 +1,22 @@
+{
+  "name": "j",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NithyaRajan/GitWorkshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NithyaRajan/GitWorkshop/issues"
+  },
+  "homepage": "https://github.com/NithyaRajan/GitWorkshop#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
